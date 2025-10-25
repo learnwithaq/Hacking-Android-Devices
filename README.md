@@ -31,7 +31,7 @@ Then follow next steps:
 Once all the above is done. reboot Kali Linux
 <pre>reboot</pre>
 After rebooting
-go to 
+go to browser
 <pre>apktool.org</pre>
 Then INSTALL > under Linux > click WRAPPER SCRIPT > Copy and paste the code in an EMPTY file on KALI LINUX Desktop and name it APKTOOL.<br>
 Then click LATEST VERSION of apktool > Download which ever is the latest version of apktool_2.12.2.jar<br>
